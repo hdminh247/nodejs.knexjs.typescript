@@ -1,0 +1,26 @@
+{
+  "system.customMessage": {
+    "code": 2000,
+    "message": "Error"
+  },
+  "auth.fail": {
+    "code": 3000,
+    "message": "Wrong email or password"
+  },
+  "auth.token.invalid": {
+    "code": 3001,
+    "message": "Unauthenticated"
+  },
+  "auth.oldPassword.not.match": {
+    "code": 3002,
+    "message": "Old password is not correct"
+  },
+  "auth.newPassword.confirmPassword.not.match": {
+    "code": 3002,
+    "message": "New password and Confirm password does not match"
+  },
+  "auth.user.existed": {
+    "code": 3003,
+    "message": "This email is already in used"
+  }
+}
